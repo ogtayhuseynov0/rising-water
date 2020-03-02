@@ -1,0 +1,3 @@
+[submodule "rising-water-src"]
+	path = rising-water-src
+	url = https://github.com/ogtayhuseynov0/rising-water.git
