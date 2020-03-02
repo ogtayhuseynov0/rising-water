@@ -1,0 +1,158 @@
+[
+    {
+      "year": 1993,
+      "TemperatureIndex": 0.23,
+      "increase_in_ice": 230,
+      "sea_level_rise": 2.902
+    },
+    {
+      "year": 1994,
+      "TemperatureIndex": 0.31,
+      "increase_in_ice": 265,
+      "sea_level_rise": 3
+    },
+    {
+      "year": 1995,
+      "TemperatureIndex": 0.45,
+      "increase_in_ice": 270,
+      "sea_level_rise": 3.14
+    },
+    {
+      "year": 1996,
+      "TemperatureIndex": 0.33,
+      "increase_in_ice": 210,
+      "sea_level_rise": 2.97
+    },
+    {
+      "year": 1997,
+      "TemperatureIndex": 0.46,
+      "increase_in_ice": 240,
+      "sea_level_rise": 3.14
+    },
+    {
+      "year": 1998,
+      "TemperatureIndex": 0.61,
+      "increase_in_ice": 248,
+      "sea_level_rise": 3.28
+    },
+    {
+      "year": 1999,
+      "TemperatureIndex": 0.39,
+      "increase_in_ice": 210,
+      "sea_level_rise": 3.085
+    },
+    {
+      "year": 2000,
+      "TemperatureIndex": 0.4,
+      "increase_in_ice": 200,
+      "sea_level_rise": 3.07
+    },
+    {
+      "year": 2001,
+      "TemperatureIndex": 0.54,
+      "increase_in_ice": 200,
+      "sea_level_rise": 3.16
+    },
+    {
+      "year": 2002,
+      "TemperatureIndex": 0.62,
+      "increase_in_ice": 240,
+      "sea_level_rise": 3.3
+    },
+    {
+      "year": 2003,
+      "TemperatureIndex": 0.62,
+      "increase_in_ice": 55.779,
+      "sea_level_rise": 3.3
+    },
+    {
+      "year": 2004,
+      "TemperatureIndex": 0.54,
+      "increase_in_ice": 202.996,
+      "sea_level_rise": 3.14
+    },
+    {
+      "year": 2005,
+      "TemperatureIndex": 0.68,
+      "increase_in_ice": 191.591,
+      "sea_level_rise": 3.18
+    },
+    {
+      "year": 2006,
+      "TemperatureIndex": 0.64,
+      "increase_in_ice": 209.89,
+      "sea_level_rise": 3.155
+    },
+    {
+      "year": 2007,
+      "TemperatureIndex": 0.66,
+      "increase_in_ice": 262.568,
+      "sea_level_rise": 3.17
+    },
+    {
+      "year": 2008,
+      "TemperatureIndex": 0.54,
+      "increase_in_ice": 279.94,
+      "sea_level_rise": 3.14
+    },
+    {
+      "year": 2009,
+      "TemperatureIndex": 0.66,
+      "increase_in_ice": 196.185,
+      "sea_level_rise": 3.4
+    },
+    {
+      "year": 2010,
+      "TemperatureIndex": 0.72,
+      "increase_in_ice": 376.671,
+      "sea_level_rise": 3.41
+    },
+    {
+      "year": 2011,
+      "TemperatureIndex": 0.61,
+      "increase_in_ice": 450.591,
+      "sea_level_rise": 3.26
+    },
+    {
+      "year": 2012,
+      "TemperatureIndex": 0.64,
+      "increase_in_ice": 404.336,
+      "sea_level_rise": 3.309
+    },
+    {
+      "year": 2013,
+      "TemperatureIndex": 0.68,
+      "increase_in_ice": 313.671,
+      "sea_level_rise": 3.4
+    },
+    {
+      "year": 2014,
+      "TemperatureIndex": 0.74,
+      "increase_in_ice": 161.681,
+      "sea_level_rise": 3.45
+    },
+    {
+      "year": 2015,
+      "TemperatureIndex": 0.9,
+      "increase_in_ice": 150.278,
+      "sea_level_rise": 3.6
+    },
+    {
+      "year": 2016,
+      "TemperatureIndex": 1.01,
+      "increase_in_ice": 219.84,
+      "sea_level_rise": 3.7
+    },
+    {
+      "year": 2017,
+      "TemperatureIndex": 0.92,
+      "increase_in_ice": 146.211,
+      "sea_level_rise": 3.64
+    },
+    {
+      "year": 2018,
+      "TemperatureIndex": 0.85,
+      "increase_in_ice": 210,
+      "sea_level_rise": 3.58
+    }
+  ]
